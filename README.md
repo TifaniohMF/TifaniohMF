@@ -2,11 +2,11 @@
 
 <!-- animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!&size=30&center=true&width=600&color=#0f172a&duraion=5000&pause=1500&font=Fira%20Code">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!&size=30&center=true&width=600&color=#00FF00&duraion=5000&pause=1500&font=Fira%20Code">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Tifanioh&size=30&center=true&width=600&color=#0f172a&pause=3000&font=Fira%20Code&repeat=false">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Tifanioh&size=30&center=true&width=600&color=#00FF00&pause=3000&font=Fira%20Code&repeat=false">
 </p>
 </div>
 
