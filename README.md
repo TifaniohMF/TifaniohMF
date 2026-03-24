@@ -55,7 +55,7 @@ Currently, I am exploring the following domains as an autodidact :
    <img src="https://streak-stats.demolab.com?user=TifaniohMF&theme=dracula&mode=daily&hide_border=false" height="150" alt="streak graph" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&layout=compact&theme=radical&hide_border=false" alt="TifaniohMF: most used langage" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&hide_border=false" alt="TifaniohMF: most used langage" />
 </p>
 
 ---
