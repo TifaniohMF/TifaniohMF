@@ -36,7 +36,7 @@ Currently, I am exploring the following domains as an autodidact :
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=python,c,cpp,latex,r" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,numpy,sklearn" />
+    <img src="https://skillicons.dev/icons?i=html,css,sklearn" />
     <br/>
 	<img src="https://skillicons.dev/icons?i=github,git,linux" />
 	<br/>
