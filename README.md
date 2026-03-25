@@ -19,7 +19,7 @@
 
 - 🚶**Current** : I am working on equation and complex systems solving tools.
 - 🎓 **Mention** : Mathematics and computer science (University of Antananarivo).
-- 🧠 **Passionate** : Mathematics logic, data scientist, data analyste and IA.
+- 🧠 **Passionate** : Mathematics logic, data scientist, data analyst, machine learning and IA.
 - 🌱 **Learning** : algebra, analysis, statistics, probability, numerical calcul, data base, machine learning.
 
 ---
@@ -63,7 +63,7 @@ Currently, I am exploring the following domains as an autodidact :
 <!-- collaboration -->
 ## 🤝 Connect and collaboration 
 
-### 📩 Connect me
+### 📩 Connect with me
 
 [![Email](https://img.shields.io/badge/✉️-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randrianoelinatifanioh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tifanioh-mahefa-fandresentsoa-randrianoelina-205747361)
