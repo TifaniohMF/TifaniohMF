@@ -20,7 +20,7 @@
 - 🚶**Current** : I am working on equation and complex systems solving tools.
 - 🎓 **Mention** : Mathematics and computer science (University of Antananarivo).
 - 🧠 **Passionate** : Mathematics logic, data scientist, data analyste and IA.
-- 🌱 **Learning** : algebra, statistics, probability, numerical calcul, data base, machine learning.
+- 🌱 **Learning** : algebra, analysis, statistics, probability, numerical calcul, data base, machine learning.
 
 ---
 
