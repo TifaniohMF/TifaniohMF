@@ -40,7 +40,7 @@ Currently, I am exploring the following domains as an autodidact :
     <br/>
 	<img src="https://skillicons.dev/icons?i=github,git,linux" />
 	<br/>
-	<img src="https://skillicons.dev/icons?i=vscode,jupyter" />
+	<img src="https://skillicons.dev/icons?i=vscode,ipynb" />
 	</a>
 </div>
 
