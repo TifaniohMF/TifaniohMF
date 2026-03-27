@@ -2,7 +2,7 @@
 
 <!-- animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!&size=30&center=true&width=600&color=#00FF00&duraion=5000&pause=1500&font=Fira%20Code">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!&size=30&center=true&width=600&color=#00FF00&duration=5000&pause=1500&font=Fira%20Code">
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
 <!-- profils -->
 ## 🎯 About Me
 
-> **"For me computer science is a tools to solve mathematics problem and profession life."**
+> **"For me, computer science is a tools to solve mathematics problem and professional challenge s."**
 
-- 🚶**Current** : I am working on equation and complex systems solving tools.
-- 🎓 **Mention** : Mathematics and computer science (University of Antananarivo).
-- 🧠 **Passionate** : Mathematics logic, data scientist, data analyst, machine learning and IA.
-- 🌱 **Learning** : algebra, analysis, statistics, probability, numerical calcul, data base, machine learning.
+- 🚶**Current** : Developing tools to solve linear system equation.
+- 🎓 **Education** : Mathematics and computer science (University of Antananarivo).
+- 🧠 **Passionate about** : Mathematics logic, data scientist, data analyst, machine learning and IA.
+- 🌱 **Current learning** : algebra, analysis, statistics, probability, numerical calcul, data base, machine learning.
 
 ---
 
@@ -34,13 +34,19 @@ Currently, I am exploring the following domains as an autodidact :
 
 <div align="center">
 	<a href="https://skillicons.dev">
-		<img src="https://skillicons.dev/icons?i=python,c,cpp,latex" />
+	**Programming language:**
+	<img src="https://skillicons.dev/icons?i=python,c,cpp,latex" height="40"/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,sklearn" />
+    **Web développent:**
+    <img src="https://skillicons.dev/icons?i=html,css" height="40" />
     <br/>
-	<img src="https://skillicons.dev/icons?i=github,git,linux" />
+    **Data scientist & ML:**
+    <img src="https://skillicons.dev/icons?i=sklearn,jupyter" height="40" />
+    **Version control os:**
+	<img src="https://skillicons.dev/icons?i=github,git,linux" height="40" />
 	<br/>
-	<img src="https://skillicons.dev/icons?i=vscode,ipynb" />
+	**Editors & IDE:**
+	<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 	</a>
 </div>
 
@@ -63,7 +69,7 @@ Currently, I am exploring the following domains as an autodidact :
 <!-- collaboration -->
 ## 🤝 Connect and collaboration 
 
-### 📩 Connect with me
+### 📩 Reach me
 
 [![Email](https://img.shields.io/badge/✉️-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randrianoelinatifanioh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tifanioh-mahefa-fandresentsoa-randrianoelina-205747361)
