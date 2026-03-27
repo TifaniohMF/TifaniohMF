@@ -33,21 +33,19 @@ Currently, I am exploring the following domains as an autodidact :
 ## 🛠️ Tools and technology
 
 <div align="center">
-	<a href="https://skillicons.dev">
-	**Programming language:**
+	<p><strong>Programming language:</strong></p>
 	<img src="https://skillicons.dev/icons?i=python,c,cpp,latex" height="40"/>
     <br/>
-    **Web développent:**
+    <p><strong>Web développent:</strong></p>
     <img src="https://skillicons.dev/icons?i=html,css" height="40" />
     <br/>
-    **Data scientist & ML:**
+    <p><strong>Data scientist & ML:</strong></p>
     <img src="https://skillicons.dev/icons?i=sklearn,jupyter" height="40" />
-    **Version control os:**
+    <p><strong>Version control os:</strong></p>
 	<img src="https://skillicons.dev/icons?i=github,git,linux" height="40" />
 	<br/>
-	**Editors & IDE:**
+	<p><strong>Editors & IDE:</strong></p>
 	<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
-	</a>
 </div>
 
 <br/>
