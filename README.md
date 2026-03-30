@@ -40,7 +40,10 @@ Currently, I am exploring the following domains as an autodidact :
     <img src="https://skillicons.dev/icons?i=html,css" height="40" />
     <br/>
     <p><strong>Data scientist & ML:</strong></p>
-    <img src="https://skillicons.dev/icons?i=sklearn,jupyter" height="40" />
+    <img src="https://skillicons.dev/icons?i=sklearn" height="40" />
+    <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />  
     <p><strong>Version control os:</strong></p>
 	<img src="https://skillicons.dev/icons?i=github,git,linux" height="40" />
 	<br/>
