@@ -83,7 +83,7 @@ Currently, I am exploring the following domains as an autodidact :
 > **"Man evolves through learning."**
 
 
-> **"To achieve your goal, you need more effort and rigor"**
+> **"To achieve your goal, you need more effort and rigor."**
 
 
 > **"The success is not definitive, the failure is not fatal. It's the courage to continue that counts."**     Winston Churchill 
