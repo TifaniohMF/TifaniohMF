@@ -15,9 +15,9 @@
 <!-- profils -->
 ## 🎯 About Me
 
-> **"For me, computer science is a tools to solve mathematics problem and professional challenge s."**
+> **"For me, computer science  a tool to solve mathematics problem and professional challenges."**
 
-- 🚶**Current** : Developing tools to solve linear system equation.
+- 🚶**Current** : Developing tools to solve linear system equations.
 - 🎓 **Education** : Mathematics and computer science (University of Antananarivo).
 - 🧠 **Passionate about** : Mathematics logic, data scientist, data analyst, machine learning and IA.
 - 🌱 **Current learning** : algebra, analysis, statistics, probability, numerical calcul, data base, machine learning.
@@ -28,7 +28,7 @@
 
 Currently, I am exploring the following domains as an autodidact :
 - **Machine learning**
-- **Data base**
+- **Databases**
 
 ## 🛠️ Tools and technology
 
@@ -36,7 +36,7 @@ Currently, I am exploring the following domains as an autodidact :
 	<p><strong>Programming language:</strong></p>
 	<img src="https://skillicons.dev/icons?i=python,c,cpp,latex" height="40"/>
     <br/>
-    <p><strong>Web développent:</strong></p>
+    <p><strong>Web development:</strong></p>
     <img src="https://skillicons.dev/icons?i=html,css" height="40" />
     <br/>
     <p><strong>Data scientist & ML:</strong></p>
@@ -44,7 +44,7 @@ Currently, I am exploring the following domains as an autodidact :
     <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />  
-    <p><strong>Version control os:</strong></p>
+    <p><strong>Version control and OS:</strong></p>
 	<img src="https://skillicons.dev/icons?i=github,git,linux" height="40" />
 	<br/>
 	<p><strong>Editors & IDE:</strong></p>
@@ -65,6 +65,8 @@ Currently, I am exploring the following domains as an autodidact :
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&hide_border=false" alt="TifaniohMF: most used langage" />
 </p>
 
+## 📊 GitHub Contributions
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TifaniohMF)
 ---
 
 <!-- collaboration -->
