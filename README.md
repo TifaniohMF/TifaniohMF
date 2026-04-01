@@ -65,8 +65,6 @@ Currently, I am exploring the following domains as an autodidact :
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&hide_border=false" alt="TifaniohMF: most used langage" />
 </p>
 
-## 📊 GitHub Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TifaniohMF&theme=dracula&mode=daily&hide_border=false)
 ---
 
 <!-- collaboration -->
