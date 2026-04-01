@@ -66,7 +66,7 @@ Currently, I am exploring the following domains as an autodidact :
 </p>
 
 ## 📊 GitHub Contributions
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TifaniohMF)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=TifaniohMF&theme=dracula&mode=daily&hide_border=false)
 ---
 
 <!-- collaboration -->
