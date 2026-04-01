@@ -15,31 +15,38 @@
 <!-- profils -->
 ## 🎯 About Me
 
-> **"For me, computer science  a tool to solve mathematics problem and professional challenges."**
+> **"For me, computer science is a tool to solve mathematics problems and professional challenges."**
 
 - 🚶**Current** : Developing tools to solve linear system equations.
 - 🎓 **Education** : Mathematics and computer science (University of Antananarivo).
-- 🧠 **Passionate about** : Mathematics logic, data scientist, data analyst, machine learning and IA.
-- 🌱 **Current learning** : algebra, analysis, statistics, probability, numerical calcul, data base, machine learning.
+- 🧠 **Passionate about** : Mathematical logic, data science, data analysis, machine learning, and AI.
+- 🌱 **Current learning** : Algebra, analysis, statistics, probability, numerical calculus, databases, machine learning.
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of my key projects:
+- [Linear System Solver](https://github.com/TifaniohMF/SolveLinearSystem) : A Python tool for solving linear system equations efficiently.
 
 ---
 
 ## 🌐 In the process of learning
 
-Currently, I am exploring the following domains as an autodidact :
+Currently, I am exploring the following domains as an autodidact:
 - **Machine learning**
 - **Databases**
 
 ## 🛠️ Tools and technology
 
 <div align="center">
-	<p><strong>Programming language:</strong></p>
+	<p><strong>Programming languages:</strong></p>
 	<img src="https://skillicons.dev/icons?i=python,c,cpp,latex" height="40"/>
     <br/>
     <p><strong>Web development:</strong></p>
     <img src="https://skillicons.dev/icons?i=html,css" height="40" />
     <br/>
-    <p><strong>Data scientist & ML:</strong></p>
+    <p><strong>Data science & ML:</strong></p>
     <img src="https://skillicons.dev/icons?i=sklearn" height="40" />
     <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white" />
@@ -56,21 +63,21 @@ Currently, I am exploring the following domains as an autodidact :
 ---
 
 <!-- statistics github -->
-## 📊 Statistics github
+## 📊 GitHub Statistics
 
 <p align="left">
    <img src="https://streak-stats.demolab.com?user=TifaniohMF&theme=dracula&mode=daily&hide_border=false" height="150" alt="streak graph" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&hide_border=false" alt="TifaniohMF: most used langage" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&hide_border=false" alt="TifaniohMF: most used languages" />
 </p>
 
 ---
 
 <!-- collaboration -->
-## 🤝 Connect and collaboration 
+## 🤝 Connect and Collaborate
 
-### 📩 Reach me
+### 📩 Reach Me
 
 [![Email](https://img.shields.io/badge/✉️-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:randrianoelinatifanioh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tifanioh-mahefa-fandresentsoa-randrianoelina-205747361)
@@ -78,12 +85,10 @@ Currently, I am exploring the following domains as an autodidact :
 
 ---
 
-### 💡Inspiration and quote
+### 💡 Inspiration and Quotes
 
 > **"Man evolves through learning."**
 
-
 > **"To achieve your goal, you need more effort and rigor."**
 
-
-> **"The success is not definitive, the failure is not fatal. It's the courage to continue that counts."**     Winston Churchill 
+> **"Success is not definitive, failure is not fatal. It's the courage to continue that counts."** – Winston Churchill 
