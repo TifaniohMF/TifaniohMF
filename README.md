@@ -41,21 +41,27 @@ Currently, I am exploring the following domains as an autodidact:
 
 <div align="center">
 	<p><strong>Programming languages:</strong></p>
-	<img src="https://skillicons.dev/icons?i=python,c,cpp,latex" height="40"/>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+	<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
     <br/>
     <p><strong>Web development:</strong></p>
-    <img src="https://skillicons.dev/icons?i=html,css" height="40" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <br/>
     <p><strong>Data science & ML:</strong></p>
-    <img src="https://skillicons.dev/icons?i=sklearn" height="40" />
-    <img src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white" />  
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
     <p><strong>Version control and OS:</strong></p>
-	<img src="https://skillicons.dev/icons?i=github,git,linux" height="40" />
+	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+	<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
 	<br/>
 	<p><strong>Editors & IDE:</strong></p>
-	<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </div>
 
 <br/>
