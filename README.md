@@ -66,7 +66,7 @@ Currently, I am exploring the following domains as an autodidact:
 ## 📊 GitHub Statistics
 
 <p align="left">
-   <img src="https://streak-stats.demolab.com?user=TifaniohMF&theme=dracula&mode=daily&hide_border=false" height="150" alt="streak graph" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TifaniohMF&theme=dracula&mode=daily&hide_border=false" height="150" alt="streak graph" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&hide_border=false" alt="TifaniohMF: most used languages" />
