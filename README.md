@@ -27,7 +27,7 @@
 ## 🚀 Featured Projects
 
 Here are some of my key projects:
-- [Linear System Solver](https://github.com/TifaniohMF/SolveLinearSystem) : A Python tool for solving linear system equations efficiently.
+- [![Linear System Solver](https://img.shields.io/badge/💻-math-013243?style=for-the-badge&logo=math&logoColor=white)](https://github.com/TifaniohMF/SolveLinearSystem) : A Python tool for solving linear system equations efficiently.
 
 ---
 
@@ -36,6 +36,8 @@ Here are some of my key projects:
 Currently, I am exploring the following domains as an autodidact:
 - **Machine learning**
 - **Databases**
+
+You can see my progression on [![kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/randrianoelina)
 
 ## 🛠️ Tools and technology
 
