@@ -14,10 +14,6 @@
 
 ## 🎯 Profile
 
-### Statement of Interest
-
-> **"For me, computer science is a tool to solve mathematics problems and professional challenges."**
-
 ### Current Work & Background
 
 | Aspect | Details |
