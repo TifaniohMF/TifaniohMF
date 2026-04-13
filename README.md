@@ -100,7 +100,10 @@ Currently developing expertise in the following areas as an autodidact:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&hide_border=false" alt="programming language distribution" />
 </p>
+<br/>
 
+<!-- Activity graph -->
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TifaniohMF&theme=rogue&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/TifaniohMF/github-readme-activity-graph)
 ---
 
 ## 🤝 Professional Connections
