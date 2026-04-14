@@ -49,7 +49,7 @@ Currently developing expertise in the following areas as an autodidact:
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Technical
 
 ### Programming Languages
 
