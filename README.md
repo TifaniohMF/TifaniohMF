@@ -98,7 +98,7 @@ Currently developing expertise in the following areas as an autodidact:
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TifaniohMF&theme=dracula&mode=daily&hide_border=true" height="150" alt="contribution streak analytics" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&hide_border=false" alt="programming language distribution" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&hide_border=true" alt="programming language distribution" />
 </p>
 <br/>
 
