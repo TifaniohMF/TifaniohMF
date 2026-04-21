@@ -102,6 +102,8 @@ Currently developing expertise in the following areas as an autodidact:
 
 <!-- Activity graph -->
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TifaniohMF&theme=rogue&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/TifaniohMF/github-readme-activity-graph)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TifaniohMF&repo=github-readme-stats)](https://github.com/TifaniohMF/github-readme-stats)
 ---
 
 ## 🤝 Professional Connections
