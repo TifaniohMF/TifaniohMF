@@ -34,21 +34,6 @@ A Python tool for solving linear system equations efficiently. This project addr
 
 ---
 
-## 📚 Continuing Education
-
-### Disciplinary Domains
-
-Currently developing expertise in the following areas as an autodidact:
-
-- **Machine Learning** – Theoretical foundations and practical implementations
-- **Databases** – Data organization and retrieval systems
-
-### Progress Tracking
-
-[![kaggle](https://img.shields.io/badge/Kaggle-0077B5?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/randrianoelina) — Performance metrics and project documentation available on the Kaggle platform.
-
----
-
 ## 🛠️ Technical
 
 ### Programming Languages
