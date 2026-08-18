@@ -3,13 +3,9 @@
 <!-- animated header -->
 <p align="center">
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!;I'm+Tifanioh+%F0%9F%91%8B&size=30&center=true&width=600&color=00FF00&duration=4000&pause=1500&font=Fira%20Code" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!;I'm+Tifanioh+%F0%9F%91%8B&size=30&center=true&width=600&color=1E90FF&duration=4000&pause=1500&font=Fira%20Code" alt="Typing animation"/>
 
 </p>
-
-</br>
-
-<img src="https://komarev.com/ghpvc/?username=TifaniohMF&label=Profile%20views&color=00FF00&style=flat" alt="Profile views" />
 
 </div>
 
