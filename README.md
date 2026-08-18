@@ -2,12 +2,15 @@
 
 <!-- animated header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!&size=30&center=true&width=600&color=#00FF00&duration=5000&pause=1500&font=Fira%20Code">
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!;I'm+Tifanioh+%F0%9F%91%8B&size=30&center=true&width=600&color=00FF00&duration=4000&pause=1500&font=Fira%20Code" alt="Typing animation"/>
+
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I'm+Tifanioh&size=30&center=true&width=600&color=#00FF00&pause=3000&font=Fira%20Code&repeat=false">
-</p>
+</br>
+
+<img src="https://komarev.com/ghpvc/?username=TifaniohMF&label=Profile%20views&color=00FF00&style=flat" alt="Profile views" />
+
 </div>
 
 ---
@@ -80,39 +83,45 @@ A Python tool for solving linear system equations efficiently. This project addr
 ## 📊 GitHub Activity Metrics
 
 
-| <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=TifaniohMF&theme=dracula&mode=daily&hide_border=true" height="150" alt="contribution streak analytics" /></p>| <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&mode=daily&layout=pie&hide_border=true"  alt="most used programming language" /></p>|
+| <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TifaniohMF&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub stats" /> </p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&layout=compact&hide_border=true" alt="Top languages" /></p>|
 |------|------|
 
 <br/>
 
 <!-- Activity graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TifaniohMF&theme=rogue&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/TifaniohMF/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TifaniohMF&theme=dracula&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/TifaniohMF)
+
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=TifaniohMF&theme=dracula&no-frame=true&margin-w=10&row=1" alt="GitHub trophies" />
+
+</div>
 
 ---
 
-## 🤝 Professional Connections
-
-### Contact & Collaboration
-
+ 
+## 🤝 Let's Connect
+ 
 <p align="center">
   <a href="mailto:randrianoelinatifanioh@gmail.com">
-    <img src="https://img.shields.io/badge/✉️-Email-00FF00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
+    <img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/tifanioh-mahefa-fandresentsoa-randrianoelina-205747361">
-    <img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/tifanioh.mahefa.fandresentsoa/">
-    <img src="https://img.shields.io/badge/📘-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
 
 ---
 
 ## 💡 Foundational Principles
 
 > **"Man evolves through learning."**
-
-> **"To achieve your goal, you need more effort and rigor."**
 
 > **"Success is not definitive, failure is not fatal. It's the courage to continue that counts."** 
 >
