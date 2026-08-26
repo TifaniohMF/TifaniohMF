@@ -1,6 +1,10 @@
 <div align="center">
 
 <!-- animated header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:2563eb,100:38bdf8&height=200&section=header&text=Randrianoelina%20Tifanioh%20M%20F&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=Passionnate%AI%2FML%2FData%20%C2%B7%20Mathematician&descAlignY=52&descSize=20&animation=twinkling"/>
+
+
 <p align="center">
 
   <img src="https://readme-typing-svg.demolab.com/?lines=Hello!+Welcome+to+my+Github!;I'm+Tifanioh+%F0%9F%91%8B&size=30&center=true&width=600&color=1E90FF&duration=4000&pause=1500&font=Fira%20Code" alt="Typing animation"/>
@@ -33,47 +37,11 @@ A Python tool for solving linear system equations efficiently. This project addr
 
 ---
 
-## 🛠️ Technical
+## 🛠️ Langage and tools
 
-### Programming Languages
-
-<div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-	<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-	<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
-    <br/>
-</div>
-
-### Web Technologies
-
-<div align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <br/>
-</div>
-
-### Data Science & Computational Libraries
-
-<div align="center">
-	<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-    <br/>
-</div>
-
-### Version Control, Operating Systems & Development Environments
-
-<div align="center">
-	<img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
-	<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
-
-<br/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,c,cpp,bash,linux,latex,r,sklearn,numpy,pandas,jupyter,git,githubactions,postgres,sql,vercel&perline=10" alt="Tech Stack"/>
+</p>
 ---
 
 ## 📊 GitHub Activity Metrics
@@ -122,3 +90,6 @@ A Python tool for solving linear system equations efficiently. This project addr
 > **"Success is not definitive, failure is not fatal. It's the courage to continue that counts."** 
 >
 > — Winston Churchill 
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:2563eb,100:38bdf8&height=100&section=footer"/>
