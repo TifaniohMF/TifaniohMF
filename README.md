@@ -44,30 +44,28 @@ A Python tool for solving linear system equations efficiently. This project addr
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="50"/>
-	<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width="50"/>
-	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" width="50"/>
+	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
 </p>
 ---
 
-## 📊 GitHub Activity Metrics
+## 📊 GitHub Activity & Languages
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TifaniohMF&theme=github_dark" alt="GitHub activity" width="95%" />
+</p>
 
-| <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=TifaniohMF&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="GitHub stats" /> </p> | <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TifaniohMF&theme=dracula&layout=compact&hide_border=true" alt="Top languages" /></p>|
-|------|------|
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TifaniohMF&theme=github_dark" alt="Languages by repository" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TifaniohMF&theme=github_dark" alt="Most used languages in commits" width="48%" />
+</p>
 
-<br/>
-
-<!-- Activity graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TifaniohMF&theme=dracula&hide_border=true&custom_title=My%20Contribution%20Activity)](https://github.com/TifaniohMF)
-
-<div align="center">
-
-### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=TifaniohMF&theme=dracula&no-frame=true&margin-w=10&row=1" alt="GitHub trophies" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/TifaniohMF">
+    <img src="https://img.shields.io/badge/View%20all%20repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub repositories" />
+  </a>
+</p>
 
 ---
 
