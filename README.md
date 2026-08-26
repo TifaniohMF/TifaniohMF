@@ -2,7 +2,7 @@
 
 <!-- animated header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:2563eb,100:38bdf8&height=200&section=header&text=Randrianoelina%20Tifanioh%20M%20F&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=Passionnate%AI%2FML%2FData%20%C2%B7%20Mathematician&descAlignY=52&descSize=20&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:2563eb,100:38bdf8&height=200&section=header&text=Randrianoelina%20Tifanioh%20M%20F&fontSize=44&fontColor=ffffff&fontAlignY=32&desc=Passionnate%20AI%2FML%2FData%20%C2%B7%20Mathematician&descAlignY=52&descSize=20&animation=twinkling"/>
 
 
 <p align="center">
@@ -37,10 +37,16 @@ A Python tool for solving linear system equations efficiently. This project addr
 
 ---
 
-## 🛠️ Langage and tools
+## 🛠️ Langyages and tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,bash,linux,latex,r,sklearn,numpy,pandas,jupyter,git,githubactions,postgres,sql,vercel&perline=10" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,bash,linux,latex,r,sklearn,git,github,githubactions,postgres,html,css,vercel&perline=10" alt="Tech Stack"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/-Jupyter-F37636?logo=jupyter&logocolor=white"/>
+<img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logocolor=white"/>
+<img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logocolor=white"/>
 </p>
 ---
 
