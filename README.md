@@ -37,16 +37,16 @@ A Python tool for solving linear system equations efficiently. This project addr
 
 ---
 
-## 🛠️ Langyages and tools
+## 🛠️ Languages and tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,c,cpp,bash,linux,latex,r,sklearn,git,github,githubactions,postgres,html,css,vercel&perline=10" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,bash,linux,latex,r,sklearn,git,github,githubactions,postgres,html,css" alt="Tech Stack"/>
 </p>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-	<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
+	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" width="50"/>
+	<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" width="50"/>
+	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" width="50"/>
 </p>
 ---
 
